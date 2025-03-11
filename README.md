@@ -16,8 +16,7 @@ A full-stack Android application designed for a cycle rental management system. 
 - **Backend**: SQLite, RESTful Services
 - **Development Tools**: Android Studio
 
-## Watch Video
-[Watch Video](https://www.youtube.com/watch?v=4tTuA2bdhJc)
+## [Watch Video](https://www.youtube.com/watch?v=4tTuA2bdhJc)
 
 ## Screenshots
 ![Screenshot_2025-03-11-14-04-40-455_com example cycle](https://github.com/user-attachments/assets/4ac6d9a5-8e72-4006-9ce0-3633ee0422d4)
